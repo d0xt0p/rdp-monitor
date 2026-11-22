@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=RDP Monitor
+Comment=Monitor Remmina RDP connection
+Exec=/home/user/bin/rdp-monitor/rdp-monitor.sh autostart
+Terminal=false
+Categories=Network;Utility;

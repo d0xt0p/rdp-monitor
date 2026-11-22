@@ -1,0 +1,16 @@
+*.pid
+*.lock
+*.state
+*.network
+*.snooze
+*.tmp.*
+*.bak
+*_bk*
+*.remmina
+*.mp3
+*.wav
+*.log
+.env
+.env.*
+!*.example
+*~
