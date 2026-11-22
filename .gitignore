@@ -8,6 +8,7 @@
 *_bk*
 *.remmina
 *.mp3
+!alert.mp3
 *.wav
 *.log
 .env

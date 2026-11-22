@@ -1,4 +1,5 @@
 * text=auto
+*.mp3 binary
 *.sh text eol=lf
 *.tcl text eol=lf
 *.desktop text eol=lf
